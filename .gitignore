@@ -1,3 +1,5 @@
+# Ignore exploratory notebook
+code/copula_eda.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
